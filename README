@@ -1,0 +1,11 @@
+# CPBSB3 Workshop
+
+Campus Party Brasilia 3 - Workshop Lightning Network
+
+Usar Go 1.12+: https://golang.org/dl
+
+Colocar os binários do Go no seu `PATH`.
+
+Ao digitar: `go version` tem que mostrar a versão do go.
+
+Baixar esse repo, adaptar credenciais e rodar.
